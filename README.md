@@ -29,7 +29,16 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
+## ⚡ Technologies
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meliodas-R&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Meliodas-R)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meliodas-R&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)
+
+
