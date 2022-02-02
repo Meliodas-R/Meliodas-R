@@ -31,6 +31,9 @@
 
 ## Archievements
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meliodas-R&show_icons=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Meliodas-R)](https://github.com/ryo-ma/github-profile-trophy)
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meliodas-R&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meliodas-R)](https://github.com/anuraghazra/github-readme-stats)
