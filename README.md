@@ -31,7 +31,7 @@
 
 ## Archievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Meliodas-R)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Meliodas-R&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meliodas-R&show_icons=true&theme=radical)
