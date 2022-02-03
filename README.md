@@ -1,3 +1,5 @@
+![](https://github.com/Meliodas-R/Meliodas-R/blob/main/38d30ecfe41c21551c043443d330d637.gif)
+
 ## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
